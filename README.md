@@ -9,12 +9,12 @@ My program calculates distance using the distance formula for two points. The us
 
 ## How to Run
 ```text
-1. Open the program in VSCode or other IDEs.
+1. Open the program in VSCode.
 2. Run the program.
-3. Enter the `x1` value of the first point.
-4. Enter the `y1` value of the first point.
-5. Enter the `y2` value of the second point.
-6. Enter the `y2` value of the second point.
+3. Enter the x1 value of the first point.
+4. Enter the y1 value of the first point.
+5. Enter the y2 value of the second point.
+6. Enter the x2 value of the second point.
 ```
 
 ## Input Needed
